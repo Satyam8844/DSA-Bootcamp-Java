@@ -1,8 +1,8 @@
 # Problems
 
-## Easy
-- [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) `leetcode`
-- [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) `leetcode`
+## Easy all done
+- [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) `leetcode` 
+- [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) `leetcode` 
 - [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) `leetcode`
 - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) `leetcode`
 - [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) `leetcode`
@@ -15,7 +15,7 @@
 
 ## Medium
 - [Design Twitter](https://leetcode.com/problems/design-twitter/) `leetcode`
-- [ Design Linked List](https://leetcode.com/problems/design-linked-list/) `leetcode`
+- [ Design Linked List](https://leetcode.com/problems/design-linked-list/) `leetcode` 
 - [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) `leetcode`
 - [Reorder List](https://leetcode.com/problems/reorder-list/) `leetcode`
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) `leetcode` `HSBC`
@@ -44,7 +44,7 @@
 - [ Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)`leetcode`
 - [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)`leetcode`
 - [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)`leetcode`
-- [ Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/)`leetcode`
+- [ Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/)`leetcode` done
 
 ## Hard
 - [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) `leetcode`
